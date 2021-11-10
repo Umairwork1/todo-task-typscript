@@ -19,7 +19,7 @@ DELETE http://base_url/tasks/id
 ```
 POST http://base_url/auth/signin 
 POST http://base_url/auth/signup 
-
+```
 ## Installation
 
 ```bash
